@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bigpil
-- 👀 I’m interested in cloud computing, virtualization, and automation
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on anything!!!
+- 👀 I’m interested in anything cloud, virtualization, and automation
+- 🌱 I really enjoy using python and I'd like to get better at it :)
+- 💞️ I’m looking to collaborate on anything
 
 <!---
 bigpil/bigpil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

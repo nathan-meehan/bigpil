@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigpil
 - 👀 I’m interested in anything cloud, virtualization, and automation
-- 🌱 I really enjoy using python and I'd like to get better at it :)
+- 🌱 I really enjoy using python and I'd like to get better at it 
 - 💞️ I’m looking to collaborate on anything
 
 <!---

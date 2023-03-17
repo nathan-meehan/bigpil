@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathan-meehan (formerly @bigpil)
 - 👀 I’m interested in anything networking, cloud, virtualization, and automation
-- 🌱 I really enjoy using python and I'd like to get better at it 
+- 🌱 I really enjoy using python, ansible and terraform and I'd like to get better at using them 
 - 💞️ I’m looking to collaborate on anything
 
 <!---
